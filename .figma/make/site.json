@@ -1,0 +1,10 @@
+{
+  "description": "Explore Swaad Desi’s Indian and Chinese menu, discover its dining experience, and reserve a table at the family restaurant in Namkum, Ranchi.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
